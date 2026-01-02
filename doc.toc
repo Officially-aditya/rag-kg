@@ -1,0 +1,303 @@
+\contentsline {chapter}{\numberline {1}COURSE OVERVIEW}{8}{chapter.1}%
+\contentsline {section}{\numberline {1.1}What You Will Learn}{8}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Why RAG + KG is a High-Demand Skill}{8}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Market Reality (2025)}{8}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Why This Matters}{9}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}The Gap You'll Fill}{9}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Real Industry Applications}{9}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Where RAG + KG Systems Are Deployed}{9}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Real Companies Using This Stack}{9}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Detailed Case Studies from Industry}{10}{subsection.1.3.3}%
+\contentsline {subsubsection}{Case Study 1: Healthcare - Clinical Decision Support System}{10}{subsection.1.3.3}%
+\contentsline {subsubsection}{Case Study 2: Finance - Investment Research Assistant}{12}{Item.7}%
+\contentsline {subsubsection}{Case Study 3: E-Commerce - Personalized Product Discovery}{14}{lstnumber.-10.38}%
+\contentsline {subsubsection}{Case Study 4: Legal Tech - Contract Analysis System}{16}{lstnumber.-16.12}%
+\contentsline {section}{\numberline {1.4}Skills \& Tools You'll Master}{17}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Core Technologies}{17}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Skills Matrix}{18}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}KEY TERMINOLOGY \& DEFINITIONS}{19}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Core Acronyms \& Abbreviations}{19}{subsection.1.5.1}%
+\contentsline {subsubsection}{A-E}{19}{subsection.1.5.1}%
+\contentsline {subsubsection}{F-M}{19}{subsection.1.5.1}%
+\contentsline {subsubsection}{N-Z}{20}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Fundamental Concepts Defined}{20}{subsection.1.5.2}%
+\contentsline {subsubsection}{Embeddings \& Vector Representations}{20}{subsection.1.5.2}%
+\contentsline {subsubsection}{Language Model Concepts}{21}{lstnumber.-25.2}%
+\contentsline {subsubsection}{Retrieval Concepts}{22}{lstnumber.-25.2}%
+\contentsline {subsubsection}{Graph Concepts}{23}{lstnumber.-29.1}%
+\contentsline {subsubsection}{RAG-Specific Terms}{24}{lstnumber.-29.1}%
+\contentsline {subsubsection}{Graph RAG Terms}{25}{lstnumber.-29.1}%
+\contentsline {subsubsection}{Technical Infrastructure}{25}{lstnumber.-29.1}%
+\contentsline {subsection}{\numberline {1.5.3}Mathematical Notation Guide}{26}{subsection.1.5.3}%
+\contentsline {subsubsection}{Set Theory Notation}{26}{subsection.1.5.3}%
+\contentsline {subsubsection}{Linear Algebra Notation}{26}{subsection.1.5.3}%
+\contentsline {subsubsection}{Probability \& Statistics Notation}{27}{subsection.1.5.3}%
+\contentsline {subsubsection}{Calculus Notation}{27}{subsection.1.5.3}%
+\contentsline {subsubsection}{Logic \& Boolean Notation}{28}{subsection.1.5.3}%
+\contentsline {subsubsection}{Graph Theory Notation}{28}{subsection.1.5.3}%
+\contentsline {subsubsection}{Complexity Notation (Big-O)}{29}{subsection.1.5.3}%
+\contentsline {subsubsection}{Common Symbols in RAG/KG Context}{29}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Common Confusion: Terms That Sound Similar}{29}{subsection.1.5.4}%
+\contentsline {chapter}{\numberline {2}BEGINNER-FRIENDLY FOUNDATIONS}{32}{chapter.2}%
+\contentsline {section}{\numberline {2.1}LLM Basics (Large Language Models)}{32}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}What is an LLM?}{32}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Core Concepts You Must Understand}{32}{subsection.2.1.2}%
+\contentsline {subsubsection}{Tokens \& Tokenization}{32}{subsection.2.1.2}%
+\contentsline {subsubsection}{Embeddings}{33}{lstnumber.-30.11}%
+\contentsline {subsubsection}{Prompting Fundamentals}{33}{lstnumber.-32.7}%
+\contentsline {subsubsection}{Transformer Architecture Deep Dive}{34}{lstnumber.-35.15}%
+\contentsline {paragraph}{The Transformer Revolution}{34}{lstnumber.-35.15}%
+\contentsline {paragraph}{Core Components of a Transformer}{35}{lstnumber.-35.15}%
+\contentsline {paragraph}{Encoder vs. Decoder Transformers}{37}{lstnumber.-44.6}%
+\contentsline {paragraph}{Complete Transformer Block}{38}{lstnumber.-48.15}%
+\contentsline {paragraph}{Key Parameters and Model Sizes}{38}{lstnumber.-49.13}%
+\contentsline {paragraph}{Computational Complexity}{39}{lstnumber.-49.13}%
+\contentsline {paragraph}{Inference Optimization for RAG}{39}{Item.10}%
+\contentsline {section}{\numberline {2.2}Retrieval Basics}{40}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}What is Retrieval?}{40}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Types of Retrieval}{40}{subsection.2.2.2}%
+\contentsline {subsubsection}{Keyword Search (BM25)}{40}{subsection.2.2.2}%
+\contentsline {subsubsection}{Semantic Search (Dense Retrieval)}{40}{lstnumber.-52.18}%
+\contentsline {subsubsection}{Hybrid Retrieval (Best of Both)}{41}{lstnumber.-53.30}%
+\contentsline {subsection}{\numberline {2.2.3}Vector Databases}{41}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Knowledge Graph Fundamentals}{42}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}What is a Knowledge Graph?}{42}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Core Components}{42}{subsection.2.3.2}%
+\contentsline {subsubsection}{Nodes (Entities)}{42}{subsection.2.3.2}%
+\contentsline {subsubsection}{Edges (Relationships)}{42}{subsection.2.3.2}%
+\contentsline {subsubsection}{Properties}{42}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Graph Representation}{43}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Graph Theory Intuition}{43}{subsection.2.3.4}%
+\contentsline {subsubsection}{Paths}{43}{subsection.2.3.4}%
+\contentsline {subsubsection}{Multi-Hop Queries}{44}{lstnumber.-60.1}%
+\contentsline {subsubsection}{Neighborhoods}{44}{lstnumber.-61.2}%
+\contentsline {section}{\numberline {2.4}Cypher \& SPARQL Basics}{44}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Cypher (Neo4j Query Language)}{44}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}SPARQL (RDF Query Language)}{44}{subsection.2.4.2}%
+\contentsline {chapter}{\numberline {3}THEORETICAL FOUNDATIONS (DEEP DIVE)}{46}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Vector Space Theory \& Embeddings (The Mathematics of Meaning)}{46}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}The Core Idea: Meaning as Geometry}{46}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Vector Spaces: A Primer}{46}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Why High Dimensions?}{47}{subsection.3.1.3}%
+\contentsline {subsubsection}{The Mathematical Justification for High Dimensionality}{47}{subsection.3.1.3}%
+\contentsline {subsubsection}{Intrinsic Dimensionality of Language}{48}{subsection.3.1.3}%
+\contentsline {subsubsection}{The Geometry of Meaning: A Deeper Dive}{48}{lstnumber.-66.6}%
+\contentsline {subsection}{\numberline {3.1.4}The Mathematics of Embeddings}{49}{subsection.3.1.4}%
+\contentsline {subsubsection}{Cosine Similarity (The Core Metric)}{49}{subsection.3.1.4}%
+\contentsline {paragraph}{Mathematical Properties of Cosine Similarity}{49}{lstnumber.-68.7}%
+\contentsline {paragraph}{Alternative Similarity Measures and When to Use Them}{50}{lstnumber.-73.5}%
+\contentsline {subsubsection}{How Embeddings Are Learned}{51}{lstnumber.-77.8}%
+\contentsline {paragraph}{Skip-gram (Word2Vec) - The Original Insight}{51}{lstnumber.-77.8}%
+\contentsline {paragraph}{Skip-gram vs. CBOW (Continuous Bag of Words)}{51}{lstnumber.-78.5}%
+\contentsline {subsubsection}{Properties of Good Embeddings}{52}{lstnumber.-80.2}%
+\contentsline {subsection}{\numberline {3.1.5}Practical Implications for RAG}{52}{subsection.3.1.5}%
+\contentsline {section}{\numberline {3.2}Information Retrieval Theory (The Science of Finding)}{53}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}What is Information Retrieval?}{53}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Classic IR: TF-IDF (Term Frequency-Inverse Document Frequency)}{53}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}BM25: The King of Lexical Retrieval}{54}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Hybrid Retrieval: Best of Both Worlds}{55}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Relevance and Precision-Recall}{55}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}Graph Theory Fundamentals (The Mathematics of Relationships)}{55}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}What is a Graph? (Formally)}{55}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Graph Representation}{56}{subsection.3.3.2}%
+\contentsline {subsubsection}{Adjacency Matrix}{56}{subsection.3.3.2}%
+\contentsline {subsubsection}{Adjacency List}{56}{lstnumber.-93.7}%
+\contentsline {subsection}{\numberline {3.3.3}Graph Properties}{57}{subsection.3.3.3}%
+\contentsline {subsubsection}{Degree}{57}{subsection.3.3.3}%
+\contentsline {subsubsection}{Path}{57}{subsection.3.3.3}%
+\contentsline {subsubsection}{Connectedness}{57}{subsection.3.3.3}%
+\contentsline {subsubsection}{Cycles}{58}{lstnumber.-95.5}%
+\contentsline {subsection}{\numberline {3.3.4}Graph Algorithms for Knowledge Graphs}{58}{subsection.3.3.4}%
+\contentsline {subsubsection}{Breadth-First Search (BFS)}{58}{subsection.3.3.4}%
+\contentsline {subsubsection}{PageRank (The Google Algorithm)}{58}{lstnumber.-97.10}%
+\contentsline {chapter}{\numberline {4}RAG ENGINEERING MODULE}{60}{chapter.4}%
+\contentsline {section}{\numberline {4.1}What is RAG (Retrieval-Augmented Generation)?}{60}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}RAG Pipeline (Basic)}{60}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Concrete Example}{60}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Chunking Strategies}{61}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Why Chunking Matters}{61}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Chunking Methods}{61}{subsection.4.2.2}%
+\contentsline {subsubsection}{Fixed-Size Chunking}{61}{subsection.4.2.2}%
+\contentsline {subsubsection}{Sentence-Based Chunking}{62}{lstnumber.-104.11}%
+\contentsline {subsubsection}{Semantic Chunking (Advanced)}{62}{lstnumber.-105.10}%
+\contentsline {subsubsection}{Structural Chunking (Best for Many Use Cases)}{62}{lstnumber.-106.10}%
+\contentsline {subsubsection}{Advanced Chunking Strategies}{63}{lstnumber.-107.21}%
+\contentsline {paragraph}{Semantic Similarity-Based Chunking}{63}{lstnumber.-107.21}%
+\contentsline {paragraph}{Sliding Window Chunking with Context}{64}{lstnumber.-108.35}%
+\contentsline {paragraph}{Hierarchical Chunking (Multi-Level)}{65}{lstnumber.-109.36}%
+\contentsline {paragraph}{Entity-Aware Chunking}{66}{lstnumber.-111.10}%
+\contentsline {subsection}{\numberline {4.2.3}Chunking Best Practices}{67}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}The Science of Chunk Size Selection}{67}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Embeddings Selection}{68}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Embedding Model Comparison}{68}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Choosing the Right Model}{68}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Embedding Best Practices}{69}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Indexing \& Vector Stores}{69}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}FAISS (Facebook AI Similarity Search)}{69}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}ChromaDB}{70}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Pinecone (Production)}{70}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Retrievers (BM25, Hybrid, Dense)}{71}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}BM25 Retriever}{71}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Dense Retriever (Semantic)}{71}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Hybrid Retriever (Best of Both)}{71}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}3.6 Rerankers (Cross-Encoders)}{72}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Why Reranking?}{72}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Cross-Encoder Reranking}{72}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Before/After Reranking}{73}{subsection.4.6.3}%
+\contentsline {section}{\numberline {4.7}3.7 Query Rewriting \& Decomposition}{73}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Query Rewriting}{73}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Query Decomposition (Multi-Step Queries)}{74}{subsection.4.7.2}%
+\contentsline {section}{\numberline {4.8}3.8 Context Window Optimization}{74}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Context Construction}{74}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Sliding Window Retrieval}{75}{subsection.4.8.2}%
+\contentsline {section}{\numberline {4.9}3.9 Cited Answers \& Hallucination Control}{75}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}Citation Pattern}{75}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}Hallucination Detection}{76}{subsection.4.9.2}%
+\contentsline {subsection}{\numberline {4.9.3}"I Don't Know" Pattern}{76}{subsection.4.9.3}%
+\contentsline {part}{I\hspace {1em}KNOWLEDGE GRAPH ENGINEERING MODULE}{78}{part.1}%
+\contentsline {section}{\numberline {4.10}4.1 Graph Schema Design}{79}{section.4.10}%
+\contentsline {subsection}{\numberline {4.10.1}What is a Schema?}{79}{subsection.4.10.1}%
+\contentsline {subsection}{\numberline {4.10.2}Schema Design Process}{79}{subsection.4.10.2}%
+\contentsline {subsubsection}{Step 1: Identify Entities (Nodes)}{79}{subsection.4.10.2}%
+\contentsline {subsubsection}{Step 2: Identify Relationships (Edges)}{79}{subsection.4.10.2}%
+\contentsline {subsubsection}{Step 3: Define Properties}{80}{subsection.4.10.2}%
+\contentsline {subsection}{\numberline {4.10.3}Complete Schema Example}{80}{subsection.4.10.3}%
+\contentsline {subsection}{\numberline {4.10.4}Schema Best Practices}{80}{subsection.4.10.4}%
+\contentsline {section}{\numberline {4.11}4.2 Triple Extraction from Text}{81}{section.4.11}%
+\contentsline {subsection}{\numberline {4.11.1}What is Triple Extraction?}{81}{subsection.4.11.1}%
+\contentsline {subsection}{\numberline {4.11.2}Method 1: Rule-Based Extraction}{81}{subsection.4.11.2}%
+\contentsline {subsection}{\numberline {4.11.3}Method 2: LLM-Based Extraction (Better Quality)}{82}{subsection.4.11.3}%
+\contentsline {subsection}{\numberline {4.11.4}Method 3: Production-Grade Extraction}{82}{subsection.4.11.4}%
+\contentsline {section}{\numberline {4.12}4.3 Entity Linking}{83}{section.4.12}%
+\contentsline {subsection}{\numberline {4.12.1}What is Entity Linking?}{83}{subsection.4.12.1}%
+\contentsline {subsection}{\numberline {4.12.2}Simple Entity Linking}{84}{subsection.4.12.2}%
+\contentsline {subsection}{\numberline {4.12.3}LLM-Based Entity Linking}{84}{subsection.4.12.3}%
+\contentsline {section}{\numberline {4.13}4.4 Building KGs Using Neo4j}{86}{section.4.13}%
+\contentsline {subsection}{\numberline {4.13.1}Setting Up Neo4j}{86}{subsection.4.13.1}%
+\contentsline {subsection}{\numberline {4.13.2}Connecting from Python}{86}{subsection.4.13.2}%
+\contentsline {subsection}{\numberline {4.13.3}Building a KG from Triples}{86}{subsection.4.13.3}%
+\contentsline {subsection}{\numberline {4.13.4}Production KG Builder}{87}{subsection.4.13.4}%
+\contentsline {section}{\numberline {4.14}4.5 Querying with Cypher}{89}{section.4.14}%
+\contentsline {subsection}{\numberline {4.14.1}Basic Queries}{89}{subsection.4.14.1}%
+\contentsline {subsection}{\numberline {4.14.2}Multi-Hop Queries}{89}{subsection.4.14.2}%
+\contentsline {subsection}{\numberline {4.14.3}Aggregation Queries}{89}{subsection.4.14.3}%
+\contentsline {subsection}{\numberline {4.14.4}Advanced Pattern Matching}{90}{subsection.4.14.4}%
+\contentsline {section}{\numberline {4.15}4.6 Graph Traversal Reasoning}{91}{section.4.15}%
+\contentsline {subsection}{\numberline {4.15.1}Neighborhood Expansion}{91}{subsection.4.15.1}%
+\contentsline {subsection}{\numberline {4.15.2}Path-Based Reasoning}{91}{subsection.4.15.2}%
+\contentsline {subsection}{\numberline {4.15.3}Complex Multi-Hop Reasoning}{91}{subsection.4.15.3}%
+\contentsline {subsection}{\numberline {4.15.4}Graph Algorithms}{92}{subsection.4.15.4}%
+\contentsline {section}{\numberline {4.16}4.7 Micro-Projects}{93}{section.4.16}%
+\contentsline {subsection}{\numberline {4.16.1}Project 4A: Build a Movie Knowledge Graph}{93}{subsection.4.16.1}%
+\contentsline {subsection}{\numberline {4.16.2}Project 4B: Academic Citation Graph}{93}{subsection.4.16.2}%
+\contentsline {subsection}{\numberline {4.16.3}Project 4C: Company Org Chart}{94}{subsection.4.16.3}%
+\contentsline {part}{II\hspace {1em}HYBRID RAG + KG SYSTEMS (MAIN FOCUS)}{95}{part.2}%
+\contentsline {section}{\numberline {4.17}5.1 Why Combine RAG and Knowledge Graphs?}{96}{section.4.17}%
+\contentsline {subsection}{\numberline {4.17.1}Limitations of Pure RAG}{96}{subsection.4.17.1}%
+\contentsline {subsection}{\numberline {4.17.2}Limitations of Pure KG}{96}{subsection.4.17.2}%
+\contentsline {subsection}{\numberline {4.17.3}Power of Hybrid RAG + KG}{96}{subsection.4.17.3}%
+\contentsline {section}{\numberline {4.18}5.2 Graph-RAG Architecture}{97}{section.4.18}%
+\contentsline {subsection}{\numberline {4.18.1}Architecture Overview}{97}{subsection.4.18.1}%
+\contentsline {subsection}{\numberline {4.18.2}System Components}{97}{subsection.4.18.2}%
+\contentsline {section}{\numberline {4.19}5.3 KG-Augmented Retrieval}{98}{section.4.19}%
+\contentsline {subsection}{\numberline {4.19.1}Pattern 1: Entity-Centric Retrieval}{98}{subsection.4.19.1}%
+\contentsline {subsection}{\numberline {4.19.2}Pattern 2: Relationship-Aware Retrieval}{99}{subsection.4.19.2}%
+\contentsline {subsection}{\numberline {4.19.3}Pattern 3: Multi-Hop Graph $\rightarrow $ RAG}{99}{subsection.4.19.3}%
+\contentsline {section}{\numberline {4.20}5.4 KG-Guided Query Routing}{101}{section.4.20}%
+\contentsline {subsection}{\numberline {4.20.1}Query Classification}{101}{subsection.4.20.1}%
+\contentsline {subsection}{\numberline {4.20.2}Routing Logic}{101}{subsection.4.20.2}%
+\contentsline {section}{\numberline {4.21}5.5 Combining Structured + Unstructured Knowledge}{103}{section.4.21}%
+\contentsline {subsection}{\numberline {4.21.1}Context Fusion Strategy}{103}{subsection.4.21.1}%
+\contentsline {subsection}{\numberline {4.21.2}Practical Example}{104}{subsection.4.21.2}%
+\contentsline {section}{\numberline {4.22}5.6 Using LLMs to Generate Cypher Queries}{106}{section.4.22}%
+\contentsline {subsection}{\numberline {4.22.1}Text-to-Cypher}{106}{subsection.4.22.1}%
+\contentsline {subsection}{\numberline {4.22.2}Query Validation}{107}{subsection.4.22.2}%
+\contentsline {subsection}{\numberline {4.22.3}Self-Correcting Cypher Generation}{107}{subsection.4.22.3}%
+\contentsline {section}{\numberline {4.23}5.7 KG Reasoning + RAG Context for Perfect Answers}{109}{section.4.23}%
+\contentsline {subsection}{\numberline {4.23.1}The Perfect Answer Pattern}{109}{subsection.4.23.1}%
+\contentsline {section}{\numberline {4.24}5.8 Trustworthiness and Explainability Patterns}{112}{section.4.24}%
+\contentsline {subsection}{\numberline {4.24.1}Pattern 1: Provenance Tracking}{112}{subsection.4.24.1}%
+\contentsline {subsection}{\numberline {4.24.2}Pattern 2: Reasoning Chains}{112}{subsection.4.24.2}%
+\contentsline {subsection}{\numberline {4.24.3}Pattern 3: Confidence Scores}{113}{subsection.4.24.3}%
+\contentsline {section}{\numberline {4.25}5.9 Architecture Diagrams}{114}{section.4.25}%
+\contentsline {subsection}{\numberline {4.25.1}Diagram 1: Basic Hybrid Flow}{114}{subsection.4.25.1}%
+\contentsline {subsection}{\numberline {4.25.2}Diagram 2: Query Routing Decision Tree}{115}{subsection.4.25.2}%
+\contentsline {section}{\numberline {4.26}5.10 Comparison: Plain RAG vs Hybrid RAG+KG}{116}{section.4.26}%
+\contentsline {subsection}{\numberline {4.26.1}Example Comparison}{116}{subsection.4.26.1}%
+\contentsline {part}{III\hspace {1em}PRACTICAL ENGINEERING SKILLS}{118}{part.3}%
+\contentsline {section}{\numberline {4.27}6.1 Document Processing Pipeline}{119}{section.4.27}%
+\contentsline {subsection}{\numberline {4.27.1}End-to-End Pipeline}{119}{subsection.4.27.1}%
+\contentsline {section}{\numberline {4.28}6.2 Metadata Extraction}{121}{section.4.28}%
+\contentsline {subsection}{\numberline {4.28.1}Extracting Rich Metadata}{121}{subsection.4.28.1}%
+\contentsline {section}{\numberline {4.29}6.3 Evaluation Frameworks}{123}{section.4.29}%
+\contentsline {subsection}{\numberline {4.29.1}RAGAS (RAG Assessment)}{123}{subsection.4.29.1}%
+\contentsline {subsection}{\numberline {4.29.2}Custom Evaluation Metrics}{124}{subsection.4.29.2}%
+\contentsline {section}{\numberline {4.30}6.4 Deployment Considerations}{126}{section.4.30}%
+\contentsline {subsection}{\numberline {4.30.1}FastAPI Application}{126}{subsection.4.30.1}%
+\contentsline {subsection}{\numberline {4.30.2}Docker Deployment}{127}{subsection.4.30.2}%
+\contentsline {section}{\numberline {4.31}6.5 Scaling Strategies}{129}{section.4.31}%
+\contentsline {subsection}{\numberline {4.31.1}Caching Layer}{129}{subsection.4.31.1}%
+\contentsline {subsection}{\numberline {4.31.2}Batch Processing}{130}{subsection.4.31.2}%
+\contentsline {subsection}{\numberline {4.31.3}Load Balancing Multiple Vector DBs}{130}{subsection.4.31.3}%
+\contentsline {section}{\numberline {4.32}6.6 Cost Optimization}{132}{section.4.32}%
+\contentsline {subsection}{\numberline {4.32.1}Embedding Cost Optimization}{132}{subsection.4.32.1}%
+\contentsline {subsection}{\numberline {4.32.2}LLM Cost Optimization}{132}{subsection.4.32.2}%
+\contentsline {subsection}{\numberline {4.32.3}Monitoring Costs}{133}{subsection.4.32.3}%
+\contentsline {part}{IV\hspace {1em}10 HANDS-ON PROJECTS}{135}{part.4}%
+\contentsline {section}{\numberline {4.33}Project 1: Simple PDF RAG Chatbot}{136}{section.4.33}%
+\contentsline {section}{\numberline {4.34}Project 2: Multi-Hop RAG System}{137}{section.4.34}%
+\contentsline {section}{\numberline {4.35}Project 3: Automatic KG Builder from Text}{137}{section.4.35}%
+\contentsline {section}{\numberline {4.36}Project 4: Entity/Relationship Extractor}{139}{section.4.36}%
+\contentsline {section}{\numberline {4.37}Project 5: Cypher Query Generator Using LLMs}{139}{section.4.37}%
+\contentsline {section}{\numberline {4.38}Project 6: KG Search Engine}{141}{section.4.38}%
+\contentsline {section}{\numberline {4.39}Project 7: RAG with Reranker + Query Rewrite}{141}{section.4.39}%
+\contentsline {section}{\numberline {4.40}Project 8: Graph-RAG with Neighborhood Expansion}{143}{section.4.40}%
+\contentsline {section}{\numberline {4.41}Project 9: Hybrid RAG + KG Chatbot}{143}{section.4.41}%
+\contentsline {section}{\numberline {4.42}Project 10: Production-Ready Enterprise Knowledge Assistant}{145}{section.4.42}%
+\contentsline {part}{V\hspace {1em}CAPSTONE PROJECT}{147}{part.5}%
+\contentsline {section}{\numberline {4.43}Enterprise "Company Brain" - The Ultimate RAG + KG System}{148}{section.4.43}%
+\contentsline {subsection}{\numberline {4.43.1}Project Overview}{148}{subsection.4.43.1}%
+\contentsline {subsection}{\numberline {4.43.2}System Requirements}{148}{subsection.4.43.2}%
+\contentsline {subsection}{\numberline {4.43.3}Technical Specifications}{148}{subsection.4.43.3}%
+\contentsline {subsection}{\numberline {4.43.4}Implementation Steps}{150}{subsection.4.43.4}%
+\contentsline {subsubsection}{Phase 1: Data Ingestion (Week 1)}{150}{subsection.4.43.4}%
+\contentsline {subsubsection}{Phase 2: Knowledge Graph Construction (Week 2)}{150}{Item.130}%
+\contentsline {subsubsection}{Phase 3: RAG System (Week 2-3)}{150}{Item.134}%
+\contentsline {subsubsection}{Phase 4: Hybrid System (Week 3-4)}{150}{Item.138}%
+\contentsline {subsubsection}{Phase 5: API \& Frontend (Week 4-5)}{150}{Item.142}%
+\contentsline {subsubsection}{Phase 6: Testing \& Deployment (Week 5-6)}{151}{Item.146}%
+\contentsline {subsection}{\numberline {4.43.5}Evaluation Benchmarks}{151}{subsection.4.43.5}%
+\contentsline {subsection}{\numberline {4.43.6}Evaluation Rubric}{152}{subsection.4.43.6}%
+\contentsline {subsection}{\numberline {4.43.7}What Your Portfolio Demo Should Show}{152}{subsection.4.43.7}%
+\contentsline {subsection}{\numberline {4.43.8}How This Signals Hire-Readiness}{153}{subsection.4.43.8}%
+\contentsline {part}{VI\hspace {1em}ASSESSMENTS \& QUIZZES}{154}{part.6}%
+\contentsline {section}{\numberline {4.44}Module 1 Quiz: Foundations}{155}{section.4.44}%
+\contentsline {section}{\numberline {4.45}Module 2 Quiz: RAG Engineering}{155}{section.4.45}%
+\contentsline {section}{\numberline {4.46}Module 3 Quiz: Knowledge Graphs}{157}{section.4.46}%
+\contentsline {section}{\numberline {4.47}Module 4 Quiz: Hybrid Systems}{157}{section.4.47}%
+\contentsline {section}{\numberline {4.48}Coding Assignments}{158}{section.4.48}%
+\contentsline {subsection}{\numberline {4.48.1}Assignment 1: Build a Basic RAG System}{158}{subsection.4.48.1}%
+\contentsline {subsection}{\numberline {4.48.2}Assignment 2: Extract Knowledge Graph from News Articles}{158}{subsection.4.48.2}%
+\contentsline {subsection}{\numberline {4.48.3}Assignment 3: Build a Hybrid Query System}{158}{subsection.4.48.3}%
+\contentsline {section}{\numberline {4.49}Final Interview-Style Questions}{159}{section.4.49}%
+\contentsline {subsection}{\numberline {4.49.1}Technical Deep-Dive Questions}{159}{subsection.4.49.1}%
+\contentsline {subsection}{\numberline {4.49.2}System Design Questions}{159}{subsection.4.49.2}%
+\contentsline {subsection}{\numberline {4.49.3}Scenario-Based Questions}{159}{subsection.4.49.3}%
+\contentsline {subsection}{\numberline {4.49.4}Decision Questions}{160}{subsection.4.49.4}%
+\contentsline {subsection}{\numberline {4.49.5}Failure Diagnosis Questions}{161}{subsection.4.49.5}%
+\contentsline {subsection}{\numberline {4.49.6}"Bad Idea" Questions (Anti-Pattern Recognition)}{162}{subsection.4.49.6}%
+\contentsline {part}{VII\hspace {1em}COURSE RESOURCES \& NEXT STEPS}{163}{part.7}%
+\contentsline {section}{\numberline {4.50}Recommended Reading}{164}{section.4.50}%
+\contentsline {section}{\numberline {4.51}Community \& Support}{164}{section.4.51}%
+\contentsline {section}{\numberline {4.52}Career Pathways}{165}{section.4.52}%
+\contentsline {section}{\numberline {4.53}Certification Path (Self-Guided)}{165}{section.4.53}%
+\contentsline {section}{\numberline {4.54}What Comes After This Course?}{165}{section.4.54}%
+\contentsline {part}{VIII\hspace {1em}APPENDIX: QUICK REFERENCE}{167}{part.8}%
+\contentsline {section}{\numberline {4.55}Common Code Patterns}{168}{section.4.55}%
+\contentsline {subsection}{\numberline {4.55.1}1. Basic RAG Query}{168}{subsection.4.55.1}%
+\contentsline {subsection}{\numberline {4.55.2}2. KG Entity Lookup}{168}{subsection.4.55.2}%
+\contentsline {subsection}{\numberline {4.55.3}3. Hybrid Retrieval}{168}{subsection.4.55.3}%
+\contentsline {section}{\numberline {4.56}Essential Tools Installation}{169}{section.4.56}%
+\contentsline {section}{\numberline {4.57}Glossary}{169}{section.4.57}%
+\contentsline {section}{\numberline {4.58}Conclusion}{170}{section.4.58}%
+\contentsline {subsection}{\numberline {4.58.1}What Happens Next}{170}{subsection.4.58.1}%
